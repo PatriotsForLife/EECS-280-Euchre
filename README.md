@@ -1,4 +1,4 @@
-# ![Euchre Banner](![gif](https://github.com/user-attachments/assets/514c815f-96eb-434c-9b1e-44d12a5064e1)
+# ![Euchre Banner]![gif](https://github.com/user-attachments/assets/514c815f-96eb-434c-9b1e-44d12a5064e1)
 )
 
 # EECS 280 — **Euchre** (University of Michigan)
