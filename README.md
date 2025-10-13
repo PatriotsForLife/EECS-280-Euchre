@@ -46,6 +46,7 @@
 
 # Features
 - Multiplayer Euchre Game
+- https://tenor.com/view/poker-gif-16403512005360663474
 - Play Euchre against the computer
 - ![artificial-intelligence-22071_256](https://github.com/user-attachments/assets/c893df5a-60b2-489b-8d7b-944dbbc73b13)
 
