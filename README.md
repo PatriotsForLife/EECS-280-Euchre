@@ -1,4 +1,4 @@
-# ![Euchre Banner](///Users/mayowa/Downloads/cards.jpeg)
+# ![Euchre Banner]()
 # EECS 280 — **Euchre** (University of Michigan)
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourname/eecs280-euchre) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](#license) [![coverage](https://img.shields.io/badge/coverage-85%25-yellow.svg)](#tests)
 
