@@ -47,7 +47,7 @@
 # Features
 - Multiplayer Euchre Game
 - Play Euchre against the computer
-  ![artificial-intelligence-22071_256](https://github.com/user-attachments/assets/c893df5a-60b2-489b-8d7b-944dbbc73b13)
+- ![artificial-intelligence-22071_256](https://github.com/user-attachments/assets/c893df5a-60b2-489b-8d7b-944dbbc73b13)
 
 ## Prerequisites
 - **Compiler:** `g++` or `clang++` (C++17)
