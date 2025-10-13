@@ -53,7 +53,6 @@
 ## Prerequisites
 - **Compiler:** `g++` or `clang++` (C++17)
 - **Build tools:** `cmake` >= 3.10 or `make`
-- Optional: `SDL2` (for GUI), `GoogleTest` (for unit tests)
 
 Ubuntu:
 ```bash
