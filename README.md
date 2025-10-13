@@ -45,10 +45,9 @@
 > Works on macOS, Linux, and WSL. Build via **CMake** (recommended) or **Makefile**.
 
 # Features
-- Multiplayer Euchre Game
-```html
-<div class="tenor-gif-embed" data-postid="16403512005360663474" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/poker-gif-16403512005360663474">Poker Meme</a>from <a href="https://tenor.com/search/poker-memes">Poker Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-```
+- Multiplayer ![poker](https://github.com/user-attachments/assets/701e2d19-e523-4b91-94da-4a0cc89c864b)
+Euchre Game
+
 - Play Euchre against the computer
 - ![artificial-intelligence-22071_256](https://github.com/user-attachments/assets/c893df5a-60b2-489b-8d7b-944dbbc73b13)
 
