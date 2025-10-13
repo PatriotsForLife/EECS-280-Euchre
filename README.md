@@ -4,8 +4,7 @@
 # EECS 280 — **Euchre** (University of Michigan)
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourname/eecs280-euchre) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](#license) [![coverage](https://img.shields.io/badge/coverage-85%25-yellow.svg)](#tests)
 
-> A compact, well-tested C++ implementation of the card game **Euchre** built for EECS 280 (UMich). Play human vs. human, human vs. AI, or watch the AI play against itself for statistics and strategy testing.
-
+> A compact, well-tested C++ implementation of the card game **Euchre** built for EECS 280 (UMich). Play human vs. human, human vs. AI
 ---
 
 ## Table of contents
