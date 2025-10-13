@@ -10,22 +10,16 @@
 
 ## Table of contents
 - [Project Overview](#project-overview)
-- Architecture
+- [Architecture](#architecture)
 - [Quickstart (Install & Run)](#quickstart--install--run)
+- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Build (CMake)](#build-cmake)
 - [Run examples (CLI)](#run-examples-cli)
-- [Generating GIFs / Screenshots](#generating-gifs--screenshots)
-- [Features](#features)
-- [Deep-dive: Trick resolution & scoring](#deep-dive-trick-resolution--scoring)
-- [Architecture](#architecture)
 - [Usage Examples](#usage-examples)
 - [FAQ](#faq)
-- [Tests & CI](#tests--ci)
-- [Dependencies & third-party code](#dependencies--third-party-code)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+
+
 
 ---
 
@@ -50,6 +44,11 @@
 
 > Works on macOS, Linux, and WSL. Build via **CMake** (recommended) or **Makefile**.
 
+# Features
+- Multiplayer Euchre Game
+- Play Euchre against the computer
+  ![artificial-intelligence-22071_256](https://github.com/user-attachments/assets/c893df5a-60b2-489b-8d7b-944dbbc73b13)
+
 ## Prerequisites
 - **Compiler:** `g++` or `clang++` (C++17)
 - **Build tools:** `cmake` >= 3.10 or `make`
@@ -58,3 +57,17 @@ Ubuntu:
 ```bash
 sudo apt update
 sudo apt install -y build-essential cmake git libSDL2-dev
+```
+# Usage Examples
+- Learning how to use data structures in C++ to build complex programs
+- A casual game to play for fun
+# FAQ
+- What is Euchre?
+Euchre is a card game played by 4 players with the objective of taking tricks and winning hands.
+- Is it necessary to use data structures to build this game?
+Yes, it is absolutely essential to use data structures like classes to build this Euchre program.
+- How can I keep track of the rules?
+You can use the Euchre flowchart to help you figure out the rules and order of the game.
+
+
+
