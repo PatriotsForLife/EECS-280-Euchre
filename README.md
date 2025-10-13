@@ -9,6 +9,7 @@
 
 ## Table of contents
 - [Project Overview](#project-overview)
+- Architecture
 - [Quickstart (Install & Run)](#quickstart--install--run)
 - [Prerequisites](#prerequisites)
 - [Build (CMake)](#build-cmake)
@@ -32,15 +33,17 @@
 **Key goals:** correctness of game rules, clean data structures, unit-tested logic, modular AI players, and an approachable CLI for playing and debugging.
 
 **Who is this for?**
-- EECS 280 students (reference & example)
-- Anyone learning data structures through a complete small project (Deck, Hand, Player, Game Engine)
-- People experimenting with rule-based/heuristic game AIs
+- EECS 280 students 
+- Anyone learning data structures  by building an Euchre Program
+
 
 **Why does it exist?**
 - Teaching exercise to practice ADTs, pointers/references, copy semantics, and unit testing.
 - A compact but complete example of game-engine design in C++.
 
 ---
+# Architecture
+- <img width="1470" height="890" alt="euchre-flowchart" src="https://github.com/user-attachments/assets/dabd0cc9-42da-428c-9d30-646ae05a4352" />
 
 # Quickstart — Install & Run
 
