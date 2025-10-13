@@ -1,4 +1,4 @@
-# !Euchre![card-20257_256](https://github.com/user-attachments/assets/4a416298-2b99-403a-a208-0c630be178ed)
+# Euchre![card-20257_256](https://github.com/user-attachments/assets/4a416298-2b99-403a-a208-0c630be178ed)
 
 
 # EECS 280 — **Euchre** (University of Michigan)
