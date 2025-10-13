@@ -1,4 +1,5 @@
-# ![Euchre Banner] <div class="tenor-gif-embed" data-postid="16354272376622054339" data-share-method="host" data-aspect-ratio="1.79137" data-width="100%"><a href="https://tenor.com/view/euchre-cards-play-cards-lets-go-gif-16354272376622054339">Euchre Cards GIF</a>from <a href="https://tenor.com/search/euchre-gifs">Euchre GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# ![Euchre Banner]![card-20257_256](https://github.com/user-attachments/assets/4a416298-2b99-403a-a208-0c630be178ed)
+
 
 # EECS 280 — **Euchre** (University of Michigan)
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourname/eecs280-euchre) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](#license) [![coverage](https://img.shields.io/badge/coverage-85%25-yellow.svg)](#tests)
