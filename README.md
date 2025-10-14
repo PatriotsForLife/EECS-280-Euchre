@@ -64,11 +64,11 @@ sudo apt install -y build-essential cmake git libSDL2-dev
 - A casual game to play for fun
 # FAQ
 - What is Euchre?
-Euchre is a card game played by 4 players with the objective of taking tricks and winning hands.
+    - Euchre is a card game played by 4 players with the objective of taking tricks and winning hands.
 - Is it necessary to use data structures to build this game?
-Yes, it is absolutely essential to use data structures like classes to build this Euchre program.
+    -  Yes, it is absolutely essential to use data structures like classes to build this Euchre program.
 - How can I keep track of the rules?
-You can use the Euchre flowchart to help you figure out the rules and order of the game.
+    - You can use the Euchre flowchart to help you figure out the rules and order of the game.
 
 
 
