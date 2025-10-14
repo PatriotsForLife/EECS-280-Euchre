@@ -38,6 +38,7 @@
 ---
 # Architecture
 - <img width="1470" height="890" alt="euchre-flowchart" src="https://github.com/user-attachments/assets/dabd0cc9-42da-428c-9d30-646ae05a4352" />
+- <img width="592" height="517" alt="Screenshot 2025-10-14 at 4 21 18 PM" src="https://github.com/user-attachments/assets/6beabc47-74c2-491b-835b-40cab73715e4" />
 
 # Quickstart — Install & Run
 
