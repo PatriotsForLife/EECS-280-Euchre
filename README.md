@@ -23,8 +23,9 @@
 ---
 
 # Project overview
-**eecs280 Euchre** is a C++ implementation of the trick-taking card game *Euchre* designed as a course project for EECS 280.
-**Key goals:** correctness of game rules, clean data structures, unit-tested logic, modular AI players, and an approachable CLI for playing and debugging.
+**EECS 280 Euchre** is a classic example of Object-Oriented Programming (OOP), leveraging C++ to simulate a complex card game. Its core function is to manage game state, enforce rules, and facilitate interaction between different player types through a modular, class-based architecture.
+
+The system is built on four primary Abstract Data Types (ADTs) that encapsulate distinct responsibilities, a key tenet of good software design.
 
 **Who is this for?**
 - EECS 280 students 
