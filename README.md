@@ -42,6 +42,9 @@
 # Quickstart — Install & Run
 
 > Works on macOS, Linux, and WSL. Build via **CMake** (recommended) or **Makefile**.
+> Download the euchre folder
+> Navigate to the location of the euchre folder in your CLI (Command Line Interface) and run ```gcc euchre.c -o euchre```
+> Run ```make euchre``` and play the game. [Rules of Euchre](https://bicyclecards.com/how-to-play/euchre)
 
 # Features
 - Multiplayer ![poker](https://github.com/user-attachments/assets/701e2d19-e523-4b91-94da-4a0cc89c864b)
