@@ -50,6 +50,7 @@ The system is built on four primary Abstract Data Types (ADTs) that encapsulate 
 > Works on macOS, Linux, and WSL. Build via **CMake** (recommended) or **Makefile**.
 > Download the euchre folder and navigate to the location of the euchre folder in your CLI (Command Line Interface) and run ```gcc euchre.c -o euchre```
 > Run ```make euchre``` and play the game. [Rules of Euchre](https://bicyclecards.com/how-to-play/euchre)
+![a93m9u](https://github.com/user-attachments/assets/07c1e23f-a0c3-4866-8b92-4992ee426f78)
 
 # Features
 - Multiplayer ![poker](https://github.com/user-attachments/assets/701e2d19-e523-4b91-94da-4a0cc89c864b)
