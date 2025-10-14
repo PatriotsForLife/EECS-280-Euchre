@@ -26,6 +26,7 @@
 **EECS 280 Euchre** is a classic example of Object-Oriented Programming (OOP), leveraging C++ to simulate a complex card game. Its core function is to manage game state, enforce rules, and facilitate interaction between different player types through a modular, class-based architecture.
 
 The system is built on four primary Abstract Data Types (ADTs) that encapsulate distinct responsibilities:
+    
     - Card: Represents a single playing card. It consists of the complex logic for determining a card's value based on the current Trump suit and Led suit using specialized comparison functions.
     - Pack: Represents the deck of 24 cards. It manages the card order, handles the shuffling algorithm, and facilitates the dealing of cards to players.
     - Player: An abstract base class that defines the interface for all player actions (e.g., make_trump, play_card).
